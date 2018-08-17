@@ -1,0 +1,3 @@
+model\Alunos.class
+view\App.class
+controller\HibernateUtil.class
